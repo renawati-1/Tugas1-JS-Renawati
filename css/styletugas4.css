@@ -1,0 +1,98 @@
+h1{
+	font-weight:bold;
+	text-transform:uppercase;
+	font-family:cambria;
+	color: #540375;
+	text-shadow: 2px 2px 5px #D62AD0;
+}
+body{
+    background-color:#E5CFE5;
+}
+p.p2:first-letter{
+	text-align:justify;
+	text-indent:0;
+	font-size:36pt;
+	color:Black;
+	font-weight:bolder;
+}
+p.p3:first-letter{
+	font-size:36pt;
+	color:Black;
+	font-weight:bolder;
+	text-indent:0;
+}
+p{
+	text-align:justify;
+	color:#540375;
+	text-indent:1cm;
+	
+}
+legend, fieldset{
+	border:5px dashed black;
+	color:#D62AD0;
+	background-color:#FFECEC;
+	padding:10px;
+}
+ul#olahraga{
+	list-style-type:lower-alpha;
+}
+ul#tenis{
+	list-style-type:square;
+}
+ol.bulutangkis{
+	list-style-image:url('https://i.postimg.cc/FscFmk2b/jempol.gif');
+}
+body.navigator{
+	background-color:#C47AFF;
+}
+#menu{
+	text-align:center;
+}
+a:link, a:visited{
+	font-weight:bold;
+	text-decoration:none;
+	color:#540375;
+	padding:5px;
+}
+a:hover{
+	font-weight:bold;
+	text-decoration:none;
+	color:#D62AD0;
+	padding:5px;
+}
+.left{
+	background-color:black;
+}
+.right{
+	background-color:black;
+}
+body.footer{
+	background-color:#C47AFF;
+}
+body.study{
+	background-color:#E5CFE5;
+}
+.tr{
+	background-color:#D62AD0;
+}
+.tr2{
+	background-color:#D62AD0;
+}
+.tbody{
+	background-color:#D0C9C0;
+}
+.gallery{
+	background-color:#E5CFE5;
+}
+@font-face{
+	font-family: myCheria;
+	src: url(cheria.otf);
+}
+*{
+	font-family:myCheria;
+}
+
+
+
+
+
